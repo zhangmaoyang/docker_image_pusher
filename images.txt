@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 onlyoffice/documentserver:8.0
 dockurr/windows
+mysql:8.0
