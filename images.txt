@@ -7,3 +7,6 @@
 onlyoffice/documentserver:8.0
 dockurr/windows
 mysql:8.0
+node:16
+node:18
+node:20
