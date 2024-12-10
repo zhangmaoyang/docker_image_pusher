@@ -4,10 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-onlyoffice/documentserver:8.0
-dockurr/windows
-mysql:8.0
-node:14
-node:16
-node:18
-node:20
+m1k1o/neko:chromium
