@@ -4,4 +4,6 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-dataease/sqlbot
+mongo:4.4
+docker.elastic.co/elasticsearch/elasticsearch:7.14.0
+graylog/graylog:4.1.6
