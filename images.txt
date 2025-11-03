@@ -4,6 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-mongo:6.0
-opensearchproject/opensearch:2.11.0
-graylog/graylog:6.0
+public.ecr.aws/zinclabs/openobserve:latest
